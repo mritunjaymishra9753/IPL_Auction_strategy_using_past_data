@@ -8,3 +8,7 @@ In Excel, I further analyzed the extracted data, employing various formulas, fun
 The repository includes SQL scripts demonstrating data extraction and manipulation techniques, as well as Excel spreadsheets showcasing data analysis, formulas, and visualizations. By sharing these resources, I aim to provide practical guidance to others interested in utilizing SQL and Excel for IPL auction strategy analysis.
 
 Through this project, I have demonstrated the effectiveness of SQL and Excel in analyzing IPL data, enabling the development of a strong auction strategy for new franchises.
+
+I have meticulously documented all my project findings and analyses in a comprehensive PowerPoint presentation. By reviewing the presentation, you will gain a thorough understanding of the methodologies and insights derived from my work. Feel free to explore the slides and leverage my observations to enhance your understanding of the project.
+
+you will find a PDF attachment containing the problem statement. This document provides essential context and outlines the project objectives in detail. By referring to the problem statement, you can gain a comprehensive understanding of the project goals and align your expectations with the content of this repository.
